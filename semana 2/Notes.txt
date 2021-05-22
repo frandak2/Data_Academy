@@ -1,0 +1,18 @@
+siempre eh trabajado de forma loca, por que? sencillo, el PC(ROG) de la empresa me lo permite.
+todos los desarrolos de las clases son en colaboratori, y empece a hacerlo ahi.
+
+ahora como hago para sincronizar el colaboratori con mi repositorio y con drive?
+
+esta semana lo solucionare
+//14/may/20
+
+listo cree el repositorio en github y ya esta sincronizado todo. 
+en realidad fue sencillo, solo fue dar click derecho y buscar github buscara las carpetas y DONE
+
+
+siempre es bueno apreder algo nuevo cada semana, pero como aprendi en mi curos de productividad: 
+si se repasa despues de 24 horas tienes 70% de probabilidades de olvidarlo
+si se repasa despues de 1 semana tienes 50% de probabilidades de olvidarlo
+si se repasa despues de 1 mes tienes 10% de probabilidades de olvidarlo
+
+aqui el chiste es practicarlo,  como el ingles o como lo que desees aprender.

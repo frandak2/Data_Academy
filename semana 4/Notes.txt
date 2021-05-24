@@ -1,4 +1,7 @@
-fue hermosos recordar con este curso las clases de calculo 1, 2, 3 y algo de matematicas especiales.
+fue genial desempolavar las clases de estadistica de la U.
+
+apenas me desayune que puedo crear un for con "_" para que recorra el ciclo jajajaja cositas que se da uno cuenta jajajaja
+con np.unique(return_counts=True) seria la frecuencia de los datos
 
 
 siempre es bueno apreder algo nuevo cada semana, pero como aprendi en mi curos de productividad: 

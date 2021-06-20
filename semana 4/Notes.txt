@@ -1,7 +1,7 @@
 fue genial desempolavar las clases de estadistica de la U.
 
 apenas me desayune que puedo crear un for con "_" para que recorra el ciclo jajajaja cositas que se da uno cuenta jajajaja
-con np.unique(return_counts=True) seria la frecuencia de los datos
+con np.unique(return_counts=True) seria la frecuencia de los datos, esto me puede ayudar a crear viz de barras
 
 
 siempre es bueno apreder algo nuevo cada semana, pero como aprendi en mi curos de productividad: 
